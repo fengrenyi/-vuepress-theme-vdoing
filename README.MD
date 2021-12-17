@@ -63,9 +63,9 @@ npm run dev # or yarn dev
 
 
 ## 公众号
-`有趣研究社`是本人对各种有趣的、好玩的、沙雕的创意和想法以在线小网站或者文章的形式表达出来，比如80、90后朋友小时候玩的小霸王游戏机：<https://game.xugaoyi.com>，还有更多好玩的等你去探索吧~
+`好看的动漫资讯，还有更多好玩的等你去探索吧~
 
-<img src=""  style="width:370px;" />
+<img src="http://fry123.club/tem/20211217/gzh.png"  style="width:370px;" />
 
 
 ## 许可证
